@@ -61,11 +61,16 @@ Understanding Part 1 and Part 2, learners will be grouped in a team of 3 or 4 to
 
 |The Test|When? (SDLC)|How are they performed?|
 |----|----|---|
-|Unit Test|Enter 1 to 7|3 sentences max|
-|Integration Test|Enter 1 to 7|3 sentences max|
-|Acceptance Test|Enter 1 to 7|3 sentences max|
-|Performance Test|Enter 1 to 7|3 sentences max|
-|Security Test|Enter 1 to 7|3 sentences max|
+|Unit Test|4|Unit test is to verify that each small piece of code is correct (i.e produces the expected output for a given input)
+Prepare the unit test, write the test cases and test the code|
+|Integration Test|Enter 1 to 7|Integration testing is performed by combining different modules or components of the software to check if they work together as expected. It identifies any issues that might arise from their interactions. Compatibility and functionality of the integrated parts are validated.|
+|Acceptance Test|7|Acceptance testing is an end user testing , it is tested in real world by intended audience or business representative.   It is done in an UAT environment.Quality Assurance process|
+|Performance Test|Enter 1 to 7|- 1 - define performance acceptance criteria - determine constraints, goals and thresholds that will demonstrate test success; determine a rough gauge of server load after defining target audience and the potential environment the app/product will be subjected to 
+- 5 - create a simulated environment to test Load speed, stress and endurance > run and monitor tests
+- 6 & 7 - monitor and improve after deployment 
+
+Some Performance testing tools include LoadNinja (cloud-based load testing tool), HP Loadrunner (simulates over 100 000 users under real-life loads), Jmeter (used for load testing of web and application servers). |
+|Security Test|1, 5, 6,7|Using testing tools to detect security issues, using real time automation features to detect security features, and following security framework to apply to our software|
 
 > Bonus Question: Are there any other forms of software/system testings that are not listed in this lesson?
 
