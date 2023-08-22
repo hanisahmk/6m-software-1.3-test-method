@@ -61,11 +61,11 @@ Understanding Part 1 and Part 2, learners will be grouped in a team of 3 or 4 to
 
 |The Test|When? (SDLC)|How are they performed?|
 |----|----|---|
-|Unit Test|1|3 sentences max|
-|Integration Test|2|3 sentences max|
-|Acceptance Test|3|3 sentences max|
-|Performance Test|4|3 sentences max|
-|Security Test|5|3 sentences max|
+|Unit Test|4|Unit test is to verify that each small piece of code is correct i.e produces the expected output for a given input,Prepare the unit test, write the test cases and test the code|
+|Integration Test|4,5|Integration testing is performed by combining different modules or components of the software to check if they work together as expected. It identifies any issues that might arise from their interactions. Compatibility and functionality of the integrated parts are validated.|
+|Acceptance Test|7|Acceptance testing is an end user testing , it is tested in real world by intended audience or business representative.   It is done in an UAT environment.Quality Assurance process|
+|Performance Test|1, 5, 6,7| define performance acceptance criteria - determine constraints, goals and thresholds that will demonstrate test success; determine a rough gauge of server load after defining target audience and the potential environment the app/product will be subjected to|
+|Security Test|1, 5, 6,7|Using testing tools to detect security issues, using real time automation features to detect security features, and following security framework to apply to our software|
 
 > Bonus Question: Are there any other forms of software/system testings that are not listed in this lesson?
 
