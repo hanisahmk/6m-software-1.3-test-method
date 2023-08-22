@@ -61,11 +61,11 @@ Understanding Part 1 and Part 2, learners will be grouped in a team of 3 or 4 to
 
 |The Test|When? (SDLC)|How are they performed?|
 |----|----|---|
-|Unit Test|Enter 1 to 7|3 sentences max|
-|Integration Test|Enter 1 to 7|3 sentences max|
-|Acceptance Test|Enter 1 to 7|3 sentences max|
-|Performance Test|Enter 1 to 7|3 sentences max|
-|Security Test|Enter 1 to 7|3 sentences max|
+|Unit Test|1|3 sentences max|
+|Integration Test|2|3 sentences max|
+|Acceptance Test|3|3 sentences max|
+|Performance Test|4|3 sentences max|
+|Security Test|5|3 sentences max|
 
 > Bonus Question: Are there any other forms of software/system testings that are not listed in this lesson?
 

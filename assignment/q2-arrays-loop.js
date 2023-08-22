@@ -6,14 +6,27 @@
 
 const studentList = ["Johnson", "Christina", "Michael", "Lina", "Larry", "Michelle", "Bob", "Wilson"]
 
+// Two ways to perform this code 
+
 function printStudentNames(){
-    // Add code here
+    for (const key in studentList) {
+        console.log(`${key}: ${studentList[key]}`);
+    }
+}
+
+// or
+
+function printStudentNamesv2(){
+    for (let i = 0; i < 8; i++)
+    console.log(studentList[i]);
 }
 
 printStudentNames();
+printStudentNamesv2();
 
 // Ignore the code below this line
 module.exports = {
     studentList,
-    printStudentNames
+    printStudentNames,
+    printStudentNamesv2
 }
